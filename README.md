@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Steve Tene 
 
-### 🎓 Computer Science Student | Open-Source Contributor | Web Developer
+### 🎓 Computer Science Student | Backend Developer
 
 ---
 
@@ -8,26 +8,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ### 🌱 Currently Learning  
-- **C++** (systems programming, algorithms)  
-- **SQLite** (database design, optimization)  
+- Machine Learning**: scikit-learn, model evaluation, and serving models through REST APIs  
+- **Kubernetes (Minikube)** and **CI/CD with GitHub Actions**
 
 ### 🔭 Interests  
-- Web app development (frontend/backend)  
-- Contributing to open-source projects  
-- Coffee-fueled coding sessions ☕  
+- Web app development (frontend/backend)    
 
 ### 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/steve-alejandro-tene-pauta-627845258)  
-
----
-
-### 📊 GitHub Stats  
-[![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)](https://github.com/alsteve23)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/alsteve23)  
 
 ---
 
